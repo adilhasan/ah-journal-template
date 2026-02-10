@@ -1,0 +1,21 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Build/Log Files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node code for building tailwindcss
+node_modules/
+
+# Text Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Files
+tmp/
+dist-temp/
